@@ -115,7 +115,15 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="003.longest Substring Without Reperting Characters.h" />
+    <ClInclude Include="004.Longest Palindromic Substring.h" />
+    <ClInclude Include="006.ZigZag Conversion.h" />
+    <ClInclude Include="007.Reverse Interger.h" />
+    <ClInclude Include="008.atoi.h" />
+    <ClInclude Include="009.Palindrome Number.h" />
+    <ClInclude Include="010.Regular Expreesion Matching.h" />
     <ClInclude Include="includes.h" />
+    <ClInclude Include="005.LongestPlaindromicSubstring.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

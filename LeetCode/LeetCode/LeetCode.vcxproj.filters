@@ -13,21 +13,48 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Solution">
+      <UniqueIdentifier>{a8328d6e-0291-4a01-9149-aa27c39dce31}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="001.Two Sum.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="002.addTwoNumbers.h">
-      <Filter>头文件</Filter>
+      <Filter>Solution</Filter>
     </ClCompile>
-    <ClCompile Include="main.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="001.Two Sum.cpp">
+      <Filter>Solution</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="includes.h">
       <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="006.ZigZag Conversion.h">
+      <Filter>Solution</Filter>
+    </ClInclude>
+    <ClInclude Include="007.Reverse Interger.h">
+      <Filter>Solution</Filter>
+    </ClInclude>
+    <ClInclude Include="008.atoi.h">
+      <Filter>Solution</Filter>
+    </ClInclude>
+    <ClInclude Include="005.LongestPlaindromicSubstring.h">
+      <Filter>Solution</Filter>
+    </ClInclude>
+    <ClInclude Include="004.Longest Palindromic Substring.h">
+      <Filter>Solution</Filter>
+    </ClInclude>
+    <ClInclude Include="003.longest Substring Without Reperting Characters.h">
+      <Filter>Solution</Filter>
+    </ClInclude>
+    <ClInclude Include="009.Palindrome Number.h">
+      <Filter>Solution</Filter>
+    </ClInclude>
+    <ClInclude Include="010.Regular Expreesion Matching.h">
+      <Filter>Solution</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
