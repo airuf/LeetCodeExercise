@@ -13,8 +13,125 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Solution">
+    <Filter Include="Solution1">
       <UniqueIdentifier>{a8328d6e-0291-4a01-9149-aa27c39dce31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution1\Stack">
+      <UniqueIdentifier>{4b45472e-f250-405d-a8aa-25166b099818}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution1\Heap">
+      <UniqueIdentifier>{43066a69-0570-462b-a47b-5e4f3df2cffb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution1\Greedy">
+      <UniqueIdentifier>{37895733-6fc1-4b8e-a438-7313b8326e76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution1\Sort">
+      <UniqueIdentifier>{38bfc6e6-cbd5-4460-860a-5f3f6a9a1302}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution1\BitManipulation">
+      <UniqueIdentifier>{60489bb6-3337-4d13-8673-0ff1579af567}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution1\Tree">
+      <UniqueIdentifier>{e6ab0f48-3287-48a8-b8d7-25ba2ce3ac16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution1\Deep-firstSearch">
+      <UniqueIdentifier>{48823890-fdaf-4702-8c0e-f85b9b4cc7ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution1\Breadth-firstSearch">
+      <UniqueIdentifier>{e8983106-1dd3-4043-a06c-be6867479704}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution1\UnionFind">
+      <UniqueIdentifier>{fd3910d0-31ab-4c1a-b867-ce574d97d566}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution1\Graph">
+      <UniqueIdentifier>{8179e25c-8b96-45a0-8d39-a1ca67546715}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution2">
+      <UniqueIdentifier>{1c9c6fdc-899d-4d69-9666-7e57296dbd55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution3">
+      <UniqueIdentifier>{0a8610e9-db45-45e0-b505-83b4148afa89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution4">
+      <UniqueIdentifier>{2b301088-7c8b-41de-8837-f8ac1f5d0258}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution2\Design">
+      <UniqueIdentifier>{c1d219f9-3cba-4ac3-b75a-a20eadcb5209}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution2\TopologicalSort">
+      <UniqueIdentifier>{b5722235-d479-4da1-96ca-5d35e86625ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution2\Trie">
+      <UniqueIdentifier>{a31601cf-9f85-4cfe-b706-675cc43a6628}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution2\BinaryIndexTree">
+      <UniqueIdentifier>{0b2a923f-e2f7-4c0b-9959-a19e889fcfb5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution2\SegmentTree">
+      <UniqueIdentifier>{73243925-be5f-4c1a-9f5d-012536b714b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution2\BinarySearchTree">
+      <UniqueIdentifier>{eeea0d7c-3ee9-4e35-8b43-c2f57947c8b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution2\Recursion">
+      <UniqueIdentifier>{55a9d1da-6185-4c6b-8a6f-31c6000ddfc8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution2\BrainTeaser">
+      <UniqueIdentifier>{799237ab-e942-4ded-a3f8-2ad93a3fd088}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution2\Memoization">
+      <UniqueIdentifier>{5b73ac21-5e49-4531-9f60-0f80171f3595}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution2\Queue">
+      <UniqueIdentifier>{38a46c2c-eabc-40cc-8fc7-72edc8dae60f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution3\Minimax">
+      <UniqueIdentifier>{ba017510-1297-48e4-b609-7e63cf8aa86a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution3\ReservoirSampling">
+      <UniqueIdentifier>{606bd9cd-5fb2-4238-9cf7-de923ab94138}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution3\Geometry">
+      <UniqueIdentifier>{bc87ee05-da14-4576-b2e7-26842d7992b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution3\Map">
+      <UniqueIdentifier>{57f3c993-37f9-418b-a567-5c3b0b11cbf2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution3\Array">
+      <UniqueIdentifier>{54e0adce-26d1-43db-a1c7-0f09521e8744}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution3\Hashtable">
+      <UniqueIdentifier>{3087185d-854b-488d-8d85-cd647c831ce2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution3\LinkedList">
+      <UniqueIdentifier>{970ef806-64d2-42c7-9bf3-9ea63da63f18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution3\Math">
+      <UniqueIdentifier>{0d7f5332-259f-4202-af78-29df319f80b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution3\TwoPointer">
+      <UniqueIdentifier>{282f1cc3-e1b9-48aa-a8ed-4e29d5fc176d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution3\String">
+      <UniqueIdentifier>{26b67b02-e268-497a-ae2b-48f8777e5b09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution4\BinarySearch">
+      <UniqueIdentifier>{6e754d5b-462d-4ee9-85b7-e4c84f233061}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution4\DivideAndConquer">
+      <UniqueIdentifier>{744e8fe4-f4c9-43b3-a4a3-01f6d97d582a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution4\DynamicProgramming">
+      <UniqueIdentifier>{3423578a-3b8e-45c3-aca0-7dfdc41e3d28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution4\Backtracking">
+      <UniqueIdentifier>{af71d4c1-143f-4a01-81a9-1ace5d21de83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution4\Random">
+      <UniqueIdentifier>{d30c8320-4d67-4632-9d67-aa34ec4ff349}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solution4\RejectionSampling">
+      <UniqueIdentifier>{5713aff2-b754-49a3-9c4f-b0a9b77bb6e1}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -22,10 +139,10 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="002.addTwoNumbers.h">
-      <Filter>Solution</Filter>
+      <Filter>Solution1</Filter>
     </ClCompile>
     <ClCompile Include="001.Two Sum.cpp">
-      <Filter>Solution</Filter>
+      <Filter>Solution1</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -33,28 +150,63 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="006.ZigZag Conversion.h">
-      <Filter>Solution</Filter>
+      <Filter>Solution1</Filter>
     </ClInclude>
     <ClInclude Include="007.Reverse Interger.h">
-      <Filter>Solution</Filter>
+      <Filter>Solution1</Filter>
     </ClInclude>
     <ClInclude Include="008.atoi.h">
-      <Filter>Solution</Filter>
+      <Filter>Solution1</Filter>
     </ClInclude>
     <ClInclude Include="005.LongestPlaindromicSubstring.h">
-      <Filter>Solution</Filter>
+      <Filter>Solution1</Filter>
     </ClInclude>
     <ClInclude Include="004.Longest Palindromic Substring.h">
-      <Filter>Solution</Filter>
-    </ClInclude>
-    <ClInclude Include="003.longest Substring Without Reperting Characters.h">
-      <Filter>Solution</Filter>
+      <Filter>Solution1</Filter>
     </ClInclude>
     <ClInclude Include="009.Palindrome Number.h">
-      <Filter>Solution</Filter>
+      <Filter>Solution1</Filter>
     </ClInclude>
     <ClInclude Include="010.Regular Expreesion Matching.h">
-      <Filter>Solution</Filter>
+      <Filter>Solution1</Filter>
     </ClInclude>
+    <ClInclude Include="003.longest Substring Without Reperting Characters.h">
+      <Filter>Solution1</Filter>
+    </ClInclude>
+    <ClInclude Include="M-636. Exclusive Time of Function.h">
+      <Filter>Solution1\Stack</Filter>
+    </ClInclude>
+    <ClInclude Include="E-743. Network Delay Time.h">
+      <Filter>Solution1\Heap</Filter>
+    </ClInclude>
+    <ClInclude Include="E-020. Valid Parentheses.h">
+      <Filter>Solution1\Stack</Filter>
+    </ClInclude>
+    <ClInclude Include="E-155. Min Stack.h">
+      <Filter>Solution1\Stack</Filter>
+    </ClInclude>
+    <ClInclude Include="E-232. Implement Queue using Stacks.h">
+      <Filter>Solution1\Stack</Filter>
+    </ClInclude>
+    <ClInclude Include="E-255. Implement Stacks using Queues.h">
+      <Filter>Solution1\Stack</Filter>
+    </ClInclude>
+    <ClInclude Include="E-496. Next Greater Element.h">
+      <Filter>Solution1\Stack</Filter>
+    </ClInclude>
+    <ClInclude Include="E-682. Baseball Game.h">
+      <Filter>Solution1\Stack</Filter>
+    </ClInclude>
+    <ClInclude Include="E-844. Backspace String Compare.h">
+      <Filter>Solution1\Stack</Filter>
+    </ClInclude>
+    <ClInclude Include="E-303. RangeSumQuery-Immutable.h">
+      <Filter>Solution4\DynamicProgramming</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="011.ContainerWithMostWater.h">
+      <Filter>Solution1</Filter>
+    </None>
   </ItemGroup>
 </Project>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\lman\desktop\leetcode\leetcodeexercise\leetcode\leetcode\</FILEPATH>
+      <FILENAME>020. valid parentheses.h</FILENAME>
+      <LINE>14</LINE>
+      <COLUMN>30</COLUMN>
+    </SFA>
+    <DEFECTCODE>6281</DEFECTCODE>
+    <DESCRIPTION>运算顺序不正确: 关系运算符的优先级高于位运算符。</DESCRIPTION>
+    <FUNCTION>Solution::isValid</FUNCTION>
+    <DECORATED>?isValid@Solution@@QAE_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\lman\desktop\leetcode\leetcodeexercise\leetcode\leetcode\</FILEPATH>
+      <FILENAME>020. valid parentheses.h</FILENAME>
+      <LINE>14</LINE>
+      <COLUMN>20</COLUMN>
+    </SFA>
+    <DEFECTCODE>6281</DEFECTCODE>
+    <DESCRIPTION>运算顺序不正确: 关系运算符的优先级高于位运算符。</DESCRIPTION>
+    <FUNCTION>Solution::isValid</FUNCTION>
+    <DECORATED>?isValid@Solution@@QAE_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\lman\desktop\leetcode\leetcodeexercise\leetcode\leetcode\</FILEPATH>
+      <FILENAME>020. valid parentheses.h</FILENAME>
+      <LINE>14</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6281</DEFECTCODE>
+    <DESCRIPTION>运算顺序不正确: 关系运算符的优先级高于位运算符。</DESCRIPTION>
+    <FUNCTION>Solution::isValid</FUNCTION>
+    <DECORATED>?isValid@Solution@@QAE_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

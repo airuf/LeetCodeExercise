@@ -122,8 +122,21 @@
     <ClInclude Include="008.atoi.h" />
     <ClInclude Include="009.Palindrome Number.h" />
     <ClInclude Include="010.Regular Expreesion Matching.h" />
+    <ClInclude Include="E-020. Valid Parentheses.h" />
+    <ClInclude Include="E-155. Min Stack.h" />
+    <ClInclude Include="E-232. Implement Queue using Stacks.h" />
+    <ClInclude Include="E-255. Implement Stacks using Queues.h" />
+    <ClInclude Include="E-303. RangeSumQuery-Immutable.h" />
+    <ClInclude Include="E-496. Next Greater Element.h" />
+    <ClInclude Include="E-682. Baseball Game.h" />
+    <ClInclude Include="E-844. Backspace String Compare.h" />
+    <ClInclude Include="E-743. Network Delay Time.h" />
     <ClInclude Include="includes.h" />
     <ClInclude Include="005.LongestPlaindromicSubstring.h" />
+    <ClInclude Include="M-636. Exclusive Time of Function.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="011.ContainerWithMostWater.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
