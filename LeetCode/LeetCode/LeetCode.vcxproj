@@ -122,18 +122,31 @@
     <ClInclude Include="008.atoi.h" />
     <ClInclude Include="009.Palindrome Number.h" />
     <ClInclude Include="010.Regular Expreesion Matching.h" />
+    <ClInclude Include="E-021. MergeTwoSortedLists.h" />
+    <ClInclude Include="E-083. RemoveDuplicatesfromSortedList.h" />
+    <ClInclude Include="E-206. ReverseLinkedList.h" />
+    <ClInclude Include="E-237. DeleteNodeinaLinkedList.h" />
+    <ClInclude Include="E-876. MiddleoftheLinkedList.h" />
+    <ClInclude Include="M-338. CountingBits.h" />
     <ClInclude Include="E-020. Valid Parentheses.h" />
+    <ClInclude Include="E-053. MaximumSubarray.h" />
+    <ClInclude Include="E-070. ClimbingStairs.h" />
+    <ClInclude Include="E-121. BestTimetoBuyandSellStock.h" />
     <ClInclude Include="E-155. Min Stack.h" />
+    <ClInclude Include="E-198. HouseRobber.h" />
     <ClInclude Include="E-232. Implement Queue using Stacks.h" />
     <ClInclude Include="E-255. Implement Stacks using Queues.h" />
     <ClInclude Include="E-303. RangeSumQuery-Immutable.h" />
     <ClInclude Include="E-496. Next Greater Element.h" />
     <ClInclude Include="E-682. Baseball Game.h" />
+    <ClInclude Include="E-746. MinCostClimbingStairs.h" />
     <ClInclude Include="E-844. Backspace String Compare.h" />
     <ClInclude Include="E-743. Network Delay Time.h" />
     <ClInclude Include="includes.h" />
     <ClInclude Include="005.LongestPlaindromicSubstring.h" />
+    <ClInclude Include="M-413. ArithmeticSlices.h" />
     <ClInclude Include="M-636. Exclusive Time of Function.h" />
+    <ClInclude Include="M-877. StoneGame.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="011.ContainerWithMostWater.h" />

@@ -203,6 +203,45 @@
     <ClInclude Include="E-303. RangeSumQuery-Immutable.h">
       <Filter>Solution4\DynamicProgramming</Filter>
     </ClInclude>
+    <ClInclude Include="E-070. ClimbingStairs.h">
+      <Filter>Solution4\DynamicProgramming</Filter>
+    </ClInclude>
+    <ClInclude Include="E-053. MaximumSubarray.h">
+      <Filter>Solution4\DynamicProgramming</Filter>
+    </ClInclude>
+    <ClInclude Include="E-121. BestTimetoBuyandSellStock.h">
+      <Filter>Solution4\DynamicProgramming</Filter>
+    </ClInclude>
+    <ClInclude Include="E-198. HouseRobber.h">
+      <Filter>Solution4\DynamicProgramming</Filter>
+    </ClInclude>
+    <ClInclude Include="E-746. MinCostClimbingStairs.h">
+      <Filter>Solution4\DynamicProgramming</Filter>
+    </ClInclude>
+    <ClInclude Include="M-338. CountingBits.h">
+      <Filter>Solution4\DynamicProgramming</Filter>
+    </ClInclude>
+    <ClInclude Include="M-877. StoneGame.h">
+      <Filter>Solution4\DynamicProgramming</Filter>
+    </ClInclude>
+    <ClInclude Include="M-413. ArithmeticSlices.h">
+      <Filter>Solution4\DynamicProgramming</Filter>
+    </ClInclude>
+    <ClInclude Include="E-237. DeleteNodeinaLinkedList.h">
+      <Filter>Solution3\LinkedList</Filter>
+    </ClInclude>
+    <ClInclude Include="E-876. MiddleoftheLinkedList.h">
+      <Filter>Solution3\LinkedList</Filter>
+    </ClInclude>
+    <ClInclude Include="E-206. ReverseLinkedList.h">
+      <Filter>Solution3\LinkedList</Filter>
+    </ClInclude>
+    <ClInclude Include="E-021. MergeTwoSortedLists.h">
+      <Filter>Solution3\LinkedList</Filter>
+    </ClInclude>
+    <ClInclude Include="E-083. RemoveDuplicatesfromSortedList.h">
+      <Filter>Solution3\LinkedList</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="011.ContainerWithMostWater.h">
