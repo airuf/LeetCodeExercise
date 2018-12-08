@@ -124,6 +124,7 @@
     <ClInclude Include="010.Regular Expreesion Matching.h" />
     <ClInclude Include="E-021. MergeTwoSortedLists.h" />
     <ClInclude Include="E-083. RemoveDuplicatesfromSortedList.h" />
+    <ClInclude Include="E-203. RemoveLinkedListElements.h" />
     <ClInclude Include="E-206. ReverseLinkedList.h" />
     <ClInclude Include="E-237. DeleteNodeinaLinkedList.h" />
     <ClInclude Include="E-876. MiddleoftheLinkedList.h" />

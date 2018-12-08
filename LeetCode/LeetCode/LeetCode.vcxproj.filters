@@ -242,6 +242,9 @@
     <ClInclude Include="E-083. RemoveDuplicatesfromSortedList.h">
       <Filter>Solution3\LinkedList</Filter>
     </ClInclude>
+    <ClInclude Include="E-203. RemoveLinkedListElements.h">
+      <Filter>Solution3\LinkedList</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="011.ContainerWithMostWater.h">
