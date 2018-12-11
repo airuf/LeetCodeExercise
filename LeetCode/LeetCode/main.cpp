@@ -1,6 +1,5 @@
 #include "includes.h"
-#include "E-203. RemoveLinkedListElements.h"
-
+#include "E-707. Design Linked List.h"
 
 void InitLinkedList(ListNode *lst, const vector<int> *a)
 {
@@ -18,16 +17,21 @@ void InitLinkedList(ListNode *lst, const vector<int> *a)
 	}
 }
 
+
 int main()
 {
-	struct ListNode l1(0);
+	struct ListNode l1(1);
 	//vector<int> a{ 1,2,6,3,4,5,6 };
-	vector<int> a{ 1,1};
-	InitLinkedList(&l1,&a);
-	struct ListNode l2(NULL);
-	Solution S;
-	S.removeElements(&l2, 2);
+	vector<int> a{ 1};
 
+	InitLinkedList(&l1,&a);
+	struct ListNode l2(1);
+	MyLinkedList S = MyLinkedList();
+	S.addAtHead(1);
+	S.addAtIndex(1, 2);
+	cout << S.get(1);
+	cout << S.get(0);
+	cout << S.get(2);
 	system("pause");
 	return 0;
 }
