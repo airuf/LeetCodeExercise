@@ -1,5 +1,5 @@
 #include "includes.h"
-#include "E-707. Design Linked List.h"
+#include "M-109. Design Linked List.h"
 
 void InitLinkedList(ListNode *lst, const vector<int> *a)
 {
@@ -21,17 +21,82 @@ void InitLinkedList(ListNode *lst, const vector<int> *a)
 int main()
 {
 	struct ListNode l1(1);
-	//vector<int> a{ 1,2,6,3,4,5,6 };
-	vector<int> a{ 1};
+	vector<int> a{ 2,1,4,3};
+	vector<int> a2{1,2,3,4};
 
-	InitLinkedList(&l1,&a);
-	struct ListNode l2(1);
-	MyLinkedList S = MyLinkedList();
-	S.addAtHead(1);
-	S.addAtIndex(1, 2);
-	cout << S.get(1);
-	cout << S.get(0);
-	cout << S.get(2);
+	InitLinkedList(&l1,&a2);
+	Solution S;
+	S.swapPairs(&l1);
+
 	system("pause");
 	return 0;
 }
+
+//
+//#include<vector>
+//#include<iostream>
+//
+//using namespace std;
+//
+//vector<long> ChangePeople(long roomNums, long roomEnds, vector<long> roomPeopleNums)
+//{
+//	int min, index, a, b;
+//	b = roomEnds - 1;
+//	min = roomPeopleNums[roomEnds];
+//	for (int i = roomEnds; i < roomNums; i++) {
+//		if (min >= roomPeopleNums[i]) {
+//			min = roomPeopleNums[i];
+//			index = i;
+//		}
+//	}
+//	for (int i = 1; i < roomEnds; i++) {
+//		if (min >= roomPeopleNums[i]) {
+//			min = roomPeopleNums[i];
+//			index = i;
+//		}
+//	}
+//
+//	for (int i = 0; i < roomNums; i++) {
+//		if (i != index)
+//			roomPeopleNums[i] = roomPeopleNums[i] - roomPeopleNums[index];
+//	}
+//	roomPeopleNums[index] = roomPeopleNums[index] + roomPeopleNums[index] * (roomNums - 1);
+//
+//	if (index > b) {
+//		a = roomNums - 1 - index + roomEnds;
+//		roomPeopleNums[index] = roomPeopleNums[index] + a;
+//		for (int i = index + 1; i < roomNums; i++)
+//			roomPeopleNums[i] = roomPeopleNums[i] - 1;
+//		for (int i = 0; i < roomEnds; i++)
+//			roomPeopleNums[i] = roomPeopleNums[i] - 1;
+//	}
+//	else {
+//		roomPeopleNums[index] = roomPeopleNums[index] + roomEnds - 1 - index;
+//		if (index == b)
+//			roomPeopleNums[index] = roomPeopleNums[index];
+//		for (int i = index + 1; i < roomEnds; i++) {
+//			roomPeopleNums[i] = roomPeopleNums[i] - 1;
+//		}
+//	}
+//	return roomPeopleNums;
+//
+//}
+//
+//int main()
+//{
+//	long roomNums;
+//	long roomEnds;
+//	int temps;
+//	vector<long> roomPeopleNums;
+//	vector<long> result;
+//	cin >> roomNums >> roomEnds;
+//	for (int i = 0; i < roomNums; i++) {
+//		cin >> temps;
+//		roomPeopleNums.push_back(temps);
+//	}
+//	result = ChangePeople(roomNums, roomEnds, roomPeopleNums);
+//	for (int i = 0; i < result.size(); i++) {
+//		cout << result[i] << ' ';
+//	}
+//	return 0;
+//}

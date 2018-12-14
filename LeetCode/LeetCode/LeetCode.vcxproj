@@ -110,18 +110,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="001.Two Sum.cpp" />
-    <ClCompile Include="002.addTwoNumbers.h" />
+    <ClCompile Include="001. Two Sum.cpp" />
+    <ClCompile Include="002. addTwoNumbers.h" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="003.longest Substring Without Reperting Characters.h" />
+    <ClInclude Include="003. longest Substring Without Reperting Characters.h" />
     <ClInclude Include="004. Median of Two Sorted Arrys.h" />
-    <ClInclude Include="006.ZigZag Conversion.h" />
-    <ClInclude Include="007.Reverse Interger.h" />
-    <ClInclude Include="008.atoi.h" />
-    <ClInclude Include="009.Palindrome Number.h" />
-    <ClInclude Include="010.Regular Expreesion Matching.h" />
+    <ClInclude Include="006. ZigZag Conversion.h" />
+    <ClInclude Include="007. Reverse Interger.h" />
+    <ClInclude Include="008. atoi.h" />
+    <ClInclude Include="009. Palindrome Number.h" />
+    <ClInclude Include="010. Regular Expreesion Matching.h" />
     <ClInclude Include="E-021. Merge Two Sorted Lists.h" />
     <ClInclude Include="E-083. Remove Duplicates from Sorted List.h" />
     <ClInclude Include="E-141. Link List Cycle.h" />
@@ -132,6 +132,8 @@
     <ClInclude Include="E-237. Delete Node in a Linked List.h" />
     <ClInclude Include="E-707. Design Linked List.h" />
     <ClInclude Include="E-876. Middle of the Linked List.h" />
+    <ClInclude Include="M-109. Design Linked List.h" />
+    <ClInclude Include="M-148. Sort List.h" />
     <ClInclude Include="M-338. Counting Bits.h" />
     <ClInclude Include="E-020. Valid Parentheses.h" />
     <ClInclude Include="E-053. Maximum Subarray.h" />
@@ -154,7 +156,7 @@
     <ClInclude Include="M-877. Stone Game.h" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="011.Container With Most Water.h" />
+    <None Include="011. Container With Most Water.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

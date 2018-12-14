@@ -14,11 +14,13 @@ class MyLinkedList
 public:
 	int val;
 	ListNode* head;
+	//Initialize your data sturcture here;
 	MyLinkedList()
 	{
 		head = NULL;
 	}
 
+	//get the value of the index-th node in the linked list. If the index is invalid, return -1;
 	int get(int index)
 	{
 		if (head == NULL)
@@ -37,6 +39,7 @@ public:
 		return temp->val;
 	}
 
+	//Add a node of value val before the first elemnet of the linked list. After the insertion, the new node will be the first node of the linked list;
 	void addAtHead(int val)
 	{
 		ListNode *a = (ListNode*)malloc(sizeof(ListNode));
@@ -53,6 +56,7 @@ public:
 		head = a;
 	}
 
+	//Append a node of value val to the last element of the linked list;
 	void addAtTail(int val)
 	{
 		ListNode *a = (ListNode*)malloc(sizeof(ListNode));
@@ -70,40 +74,78 @@ public:
 			t = t->next;
 		}
 		a->prev = t;
-		
 		t->next = a;
 	}
 
+	//Add a node of value val before the index-th node in the linked list. If index equals to the length of linked list, the node will be append to the end of linked list. If index is greater than the length the node will not be inserted.
 	void addAtIndex(int index, int val)
 	{
 		ListNode *p = head;
 		ListNode *q = p;
-		while (index--)
+		ListNode *a = (ListNode*)malloc(sizeof(ListNode));
+		if (index == 0)
+		{
+			a->val = val;
+			a->prev = NULL;
+			a->next = NULL;
+			head = a;
+			return;
+		}
+		while (index)
 		{
 			q = p;
+			if (p == NULL)
+			{
+				return;
+			}
 			p = p->next;
+			index--;
 		}
-		ListNode *a = (ListNode*)malloc(sizeof(ListNode));
-		q->next = a;
+		
 		a->val = val;
+		a->prev = q;
+		
+		q->next = a;
 		if (p == NULL)
 		{
 			a->next = NULL;
 			return;
 		}
-		a->prev = p->prev;
 		a->next = p;
 		p->prev = a;
 	}
 
+	//Delete the index-th node in the linked list, if the index is vaild.
 	void deleteAtIndex(int index)
 	{
 		ListNode *p = head;
-		while (index--)
+		if (head == NULL)
+		{
+			return;
+		}
+
+		while (index)
 		{
 			p = p->next;
+			if (p == NULL)
+			{
+				return;
+			}
+			index--;
 		}
-		p->prev->next = p->next;
+		if (p == NULL)
+		{
+			return;
+		}
+		if (p->next == NULL)
+		{
+			p->prev->next = NULL;
+		}
+		else
+		{
+			p->prev->next = p->next;
+			p->next->prev = p->prev;
+		}
 		delete p;
 	}
 };

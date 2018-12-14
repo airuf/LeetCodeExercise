@@ -138,34 +138,16 @@
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="002.addTwoNumbers.h">
+    <ClCompile Include="002. addTwoNumbers.h">
       <Filter>Solution1</Filter>
     </ClCompile>
-    <ClCompile Include="001.Two Sum.cpp">
+    <ClCompile Include="001. Two Sum.cpp">
       <Filter>Solution1</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="includes.h">
       <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="006.ZigZag Conversion.h">
-      <Filter>Solution1</Filter>
-    </ClInclude>
-    <ClInclude Include="007.Reverse Interger.h">
-      <Filter>Solution1</Filter>
-    </ClInclude>
-    <ClInclude Include="008.atoi.h">
-      <Filter>Solution1</Filter>
-    </ClInclude>
-    <ClInclude Include="009.Palindrome Number.h">
-      <Filter>Solution1</Filter>
-    </ClInclude>
-    <ClInclude Include="010.Regular Expreesion Matching.h">
-      <Filter>Solution1</Filter>
-    </ClInclude>
-    <ClInclude Include="003.longest Substring Without Reperting Characters.h">
-      <Filter>Solution1</Filter>
     </ClInclude>
     <ClInclude Include="E-743. Network Delay Time.h">
       <Filter>Solution1\Heap</Filter>
@@ -257,9 +239,33 @@
     <ClInclude Include="E-707. Design Linked List.h">
       <Filter>Solution3\LinkedList</Filter>
     </ClInclude>
+    <ClInclude Include="003. longest Substring Without Reperting Characters.h">
+      <Filter>Solution1</Filter>
+    </ClInclude>
+    <ClInclude Include="006. ZigZag Conversion.h">
+      <Filter>Solution1</Filter>
+    </ClInclude>
+    <ClInclude Include="007. Reverse Interger.h">
+      <Filter>Solution1</Filter>
+    </ClInclude>
+    <ClInclude Include="008. atoi.h">
+      <Filter>Solution1</Filter>
+    </ClInclude>
+    <ClInclude Include="009. Palindrome Number.h">
+      <Filter>Solution1</Filter>
+    </ClInclude>
+    <ClInclude Include="010. Regular Expreesion Matching.h">
+      <Filter>Solution1</Filter>
+    </ClInclude>
+    <ClInclude Include="M-109. Design Linked List.h">
+      <Filter>Solution3\LinkedList</Filter>
+    </ClInclude>
+    <ClInclude Include="M-148. Sort List.h">
+      <Filter>Solution3\LinkedList</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="011.Container With Most Water.h">
+    <None Include="011. Container With Most Water.h">
       <Filter>Solution1</Filter>
     </None>
   </ItemGroup>
