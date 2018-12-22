@@ -13,6 +13,7 @@ class Solution
 public:
 	ListNode* sortList(ListNode* head)
 	{
-
+		ListNode* head = new ListNode(-1);
+		ListNode* tmp
 	}
 };
