@@ -263,6 +263,18 @@
     <ClInclude Include="M-148. Sort List.h">
       <Filter>Solution3\LinkedList</Filter>
     </ClInclude>
+    <ClInclude Include="E-922. Sort Array By parity II.h">
+      <Filter>Solution1\Sort</Filter>
+    </ClInclude>
+    <ClInclude Include="E-349. Intersection of Two Arrays.h">
+      <Filter>Solution1\Sort</Filter>
+    </ClInclude>
+    <ClInclude Include="E-242. Valid Anagram.h">
+      <Filter>Solution1\Sort</Filter>
+    </ClInclude>
+    <ClInclude Include="E-350. Intersection of Two Arrays.h">
+      <Filter>Solution1\Sort</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="011. Container With Most Water.h">

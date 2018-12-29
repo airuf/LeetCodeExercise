@@ -130,6 +130,9 @@
     <ClInclude Include="E-206. Reverse Linked List.h" />
     <ClInclude Include="E-234. Palindrome Linked.h" />
     <ClInclude Include="E-237. Delete Node in a Linked List.h" />
+    <ClInclude Include="E-242. Valid Anagram.h" />
+    <ClInclude Include="E-349. Intersection of Two Arrays.h" />
+    <ClInclude Include="E-350. Intersection of Two Arrays.h" />
     <ClInclude Include="E-707. Design Linked List.h" />
     <ClInclude Include="E-876. Middle of the Linked List.h" />
     <ClInclude Include="M-109. Design Linked List.h" />
@@ -154,6 +157,7 @@
     <ClInclude Include="M-413. Arithmetic Slices.h" />
     <ClInclude Include="M-636. Exclusive Time of Function.h" />
     <ClInclude Include="M-877. Stone Game.h" />
+    <ClInclude Include="E-922. Sort Array By parity II.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="011. Container With Most Water.h" />

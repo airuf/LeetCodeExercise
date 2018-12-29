@@ -1,32 +1,44 @@
 #include "includes.h"
-#include "M-109. Design Linked List.h"
+#include "E-242. Valid Anagram.h"
 
-void InitLinkedList(ListNode *lst, const vector<int> *a)
-{
-	ListNode *cp1 = lst;
-	vector<int> _data = *a;
-	ListNode *p;
-	cp1->val = _data[0];
-	for (int _dataLen = _data.size(), i = 1; i < _dataLen; i++)
-	{
-		p = (ListNode*)malloc(sizeof(ListNode));
-		cp1->next = p;
-		cp1 = cp1->next;
-		p->val = _data[i];
-		p->next = NULL;
-	}
-}
+//untreate
+//that mean havnt finished ;please use find in proj to accomplish these problem;
+
+//void InitLinkedList(ListNode *lst, const vector<int> *a)
+//{
+//	ListNode *cp1 = lst;
+//	vector<int> _data = *a;
+//	ListNode *p;
+//	cp1->val = _data[0];
+//	for (int _dataLen = _data.size(), i = 1; i < _dataLen; i++)
+//	{
+//		p = (ListNode*)malloc(sizeof(ListNode));
+//		cp1->next = p;
+//		cp1 = cp1->next;
+//		p->val = _data[i];
+//		p->next = NULL;
+//	}
+//}
+
 
 
 int main()
 {
-	struct ListNode l1(1);
-	vector<int> a{ 2,1,4,3};
-	vector<int> a2{1,2,3,4};
+	//struct ListNode l1(1);
+	vector<int> a{1,2,2,1};
+	vector<int> a2{1};
 
-	InitLinkedList(&l1,&a2);
+	//InitLinkedList(&l1,&a2);
+	//Solution S;
 	Solution S;
-	S.swapPairs(&l1);
+
+	cout << S.isAnagram("reed", "errd") << endl;
+	//for (int i = 0; i <res.size(); i++)
+	//{
+	//	cout << res[i] << endl;
+	//}
+
+	//S.swapPairs(&l1);
 
 	system("pause");
 	return 0;
