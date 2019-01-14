@@ -112,6 +112,7 @@
   <ItemGroup>
     <ClCompile Include="001. Two Sum.cpp" />
     <ClCompile Include="002. addTwoNumbers.h" />
+    <ClCompile Include="M-040.Combination Sum II.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>

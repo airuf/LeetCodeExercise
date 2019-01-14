@@ -144,6 +144,9 @@
     <ClCompile Include="001. Two Sum.cpp">
       <Filter>Solution1</Filter>
     </ClCompile>
+    <ClCompile Include="M-040.Combination Sum II.cpp">
+      <Filter>Solution1</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="includes.h">
