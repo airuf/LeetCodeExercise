@@ -10,7 +10,6 @@ public:
 		vector<vector<int>> res;
 		if (candidates.size() == 0 || target < 0)
 			return res;
-		
 	}
 
 	int recursionNum(vector<int> copy, int target)
@@ -21,5 +20,4 @@ public:
 				break;
 		}
 	}
-}
-
+};

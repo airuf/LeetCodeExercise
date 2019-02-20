@@ -132,10 +132,16 @@
     <ClInclude Include="E-234. Palindrome Linked.h" />
     <ClInclude Include="E-237. Delete Node in a Linked List.h" />
     <ClInclude Include="E-242. Valid Anagram.h" />
+    <ClInclude Include="E-344. Reverse String.h" />
     <ClInclude Include="E-349. Intersection of Two Arrays.h" />
     <ClInclude Include="E-350. Intersection of Two Arrays.h" />
+    <ClInclude Include="E-557.Reverse Words in a String III.h" />
+    <ClInclude Include="E-657. Robot Return to Origin.h" />
     <ClInclude Include="E-707. Design Linked List.h" />
+    <ClInclude Include="E-709. To Lower Case.h" />
+    <ClInclude Include="E-804. Unique Morse Code Words.h" />
     <ClInclude Include="E-876. Middle of the Linked List.h" />
+    <ClInclude Include="E-929. Unique Email Addresses.h" />
     <ClInclude Include="M-109. Design Linked List.h" />
     <ClInclude Include="M-148. Sort List.h" />
     <ClInclude Include="M-338. Counting Bits.h" />

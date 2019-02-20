@@ -278,6 +278,24 @@
     <ClInclude Include="E-350. Intersection of Two Arrays.h">
       <Filter>Solution1\Sort</Filter>
     </ClInclude>
+    <ClInclude Include="E-709. To Lower Case.h">
+      <Filter>Solution3\String</Filter>
+    </ClInclude>
+    <ClInclude Include="E-929. Unique Email Addresses.h">
+      <Filter>Solution3\String</Filter>
+    </ClInclude>
+    <ClInclude Include="E-804. Unique Morse Code Words.h">
+      <Filter>Solution3\String</Filter>
+    </ClInclude>
+    <ClInclude Include="E-657. Robot Return to Origin.h">
+      <Filter>Solution3\String</Filter>
+    </ClInclude>
+    <ClInclude Include="E-344. Reverse String.h">
+      <Filter>Solution3\String</Filter>
+    </ClInclude>
+    <ClInclude Include="E-557.Reverse Words in a String III.h">
+      <Filter>Solution3\String</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="011. Container With Most Water.h">

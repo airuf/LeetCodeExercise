@@ -1,5 +1,5 @@
 #include "includes.h"
-#include "E-242. Valid Anagram.h"
+#include "E-557.Reverse Words in a String III.h"
 
 //untreate
 //that mean havnt finished ;please use find in proj to accomplish these problem;
@@ -27,12 +27,12 @@ int main()
 	//struct ListNode l1(1);
 	vector<int> a{1,2,2,1};
 	vector<int> a2{1};
-
+	std::cout << 5 / 2 << endl;
 	//InitLinkedList(&l1,&a2);
 	//Solution S;
 	Solution S;
-
-	cout << S.isAnagram("reed", "errd") << endl;
+	S.TestData();
+	
 	//for (int i = 0; i <res.size(); i++)
 	//{
 	//	cout << res[i] << endl;
