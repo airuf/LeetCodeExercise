@@ -135,6 +135,7 @@
     <ClInclude Include="E-344. Reverse String.h" />
     <ClInclude Include="E-349. Intersection of Two Arrays.h" />
     <ClInclude Include="E-350. Intersection of Two Arrays.h" />
+    <ClInclude Include="E-521. Longest Uncommon Subsequence I.h" />
     <ClInclude Include="E-557.Reverse Words in a String III.h" />
     <ClInclude Include="E-657. Robot Return to Origin.h" />
     <ClInclude Include="E-707. Design Linked List.h" />
