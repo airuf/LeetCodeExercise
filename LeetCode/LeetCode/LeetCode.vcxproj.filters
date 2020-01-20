@@ -299,6 +299,9 @@
     <ClInclude Include="E-521. Longest Uncommon Subsequence I.h">
       <Filter>Solution3\String</Filter>
     </ClInclude>
+    <ClInclude Include="E-100. Same Tree.h">
+      <Filter>Solution1\Tree</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="011. Container With Most Water.h">
