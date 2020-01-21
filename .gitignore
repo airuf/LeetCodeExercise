@@ -9,3 +9,6 @@ LeetCode/LeetCode/Debug/LeetCode.tlog/link.command.1.tlog
 LeetCode/LeetCode/Debug/LeetCode.tlog/link.read.1.tlog
 LeetCode/LeetCode/Debug/LeetCode.tlog/link.write.1.tlog
 LeetCode/LeetCode.VC.db
+*.idb
+*.tlog
+*.db
