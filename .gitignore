@@ -12,3 +12,6 @@ LeetCode/LeetCode.VC.db
 *.idb
 *.tlog
 *.db
+LeetCode/x64/Debug/LeetCode.exe
+*.ilk
+*.pdb

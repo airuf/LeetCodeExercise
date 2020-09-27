@@ -310,5 +310,14 @@
     <None Include="011. Container With Most Water.h">
       <Filter>Solution1</Filter>
     </None>
+    <None Include="M-064. Minimum path sum.h">
+      <Filter>Solution4\DynamicProgramming</Filter>
+    </None>
+    <None Include="E-1025. divisor game.h">
+      <Filter>Solution4\DynamicProgramming</Filter>
+    </None>
+    <None Include="E-303. range sum query immutable.h">
+      <Filter>Solution4\DynamicProgramming</Filter>
+    </None>
   </ItemGroup>
 </Project>
