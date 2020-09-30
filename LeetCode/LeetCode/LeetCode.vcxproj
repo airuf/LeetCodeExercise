@@ -127,6 +127,7 @@
     <ClInclude Include="E-083. Remove Duplicates from Sorted List.h" />
     <ClInclude Include="E-100. Same Tree.h" />
     <ClInclude Include="E-101. Symeetric Tree.h" />
+    <ClInclude Include="E-1021. Remove Outermost Parentheses.h" />
     <ClInclude Include="E-141. Link List Cycle.h" />
     <ClInclude Include="E-160. Intersection of Two Linked List.h" />
     <ClInclude Include="E-203. Remove Linked List Elements.h" />
@@ -173,6 +174,7 @@
     <None Include="011. Container With Most Water.h" />
     <None Include="E-1025. divisor game.h" />
     <None Include="E-303. range sum query immutable.h" />
+    <None Include="E-SO. Queue with Two stacks.h" />
     <None Include="M-064. Minimum path sum.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

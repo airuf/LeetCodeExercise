@@ -1,6 +1,6 @@
 #include "includes.h"
-#include "E-557.Reverse Words in a String III.h"
-
+//#include "E-557.Reverse Words in a String III.h"
+#include "E-1021. Remove Outermost Parentheses.h"
 //untreate
 //that mean havnt finished ;please use find in proj to accomplish these problem;
 
@@ -31,7 +31,8 @@ int main()
 	//InitLinkedList(&l1,&a2);
 	//Solution S;
 	Solution S;
-	S.TestData();
+	string bbb = S.removeOuterParentheses("(((())))()(())");
+	std::cout<< bbb;
 	
 	//for (int i = 0; i <res.size(); i++)
 	//{
