@@ -2,6 +2,10 @@
 #include <iostream>
 #include <string>
 #include <unordered_set>
+#include <vector>
+#include <algorithm>
+
+using namespace std;
 
 class Solution
 {

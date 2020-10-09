@@ -322,7 +322,7 @@
     <None Include="E-303. range sum query immutable.h">
       <Filter>Solution4\DynamicProgramming</Filter>
     </None>
-    <None Include="E-SO. Queue with Two stacks.h">
+    <None Include="E-SO-09. Queue with Two stacks.h">
       <Filter>Solution1\Stack</Filter>
     </None>
   </ItemGroup>

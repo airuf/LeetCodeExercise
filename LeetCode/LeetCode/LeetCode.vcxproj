@@ -174,7 +174,7 @@
     <None Include="011. Container With Most Water.h" />
     <None Include="E-1025. divisor game.h" />
     <None Include="E-303. range sum query immutable.h" />
-    <None Include="E-SO. Queue with Two stacks.h" />
+    <None Include="E-SO-09. Queue with Two stacks.h" />
     <None Include="M-064. Minimum path sum.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
