@@ -308,6 +308,15 @@
     <ClInclude Include="E-1021. Remove Outermost Parentheses.h">
       <Filter>Solution1\Stack</Filter>
     </ClInclude>
+    <ClInclude Include="xE-1047. Remove all adjacent duplicates in string.h">
+      <Filter>Solution1\Stack</Filter>
+    </ClInclude>
+    <ClInclude Include="xE-1002. Find Common characters.h">
+      <Filter>Solution3\Hashtable</Filter>
+    </ClInclude>
+    <ClInclude Include="E-1441. Build An Array with Stack operations.h">
+      <Filter>Solution1\Stack</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="011. Container With Most Water.h">

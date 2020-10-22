@@ -1,2 +1,5 @@
-﻿  LeetCode.vcxproj -> f:\Users\ASUS\Desktop\RemoteWork\LeetCodeExercise\LeetCode\x64\Debug\LeetCode.exe
+﻿  main.cpp
+f:\users\asus\desktop\remotework\leetcodeexercise\leetcode\leetcode\main.cpp(38): warning C4101: “b”: 未引用的局部变量
+f:\users\asus\desktop\remotework\leetcodeexercise\leetcode\leetcode\main.cpp(37): warning C4101: “dd”: 未引用的局部变量
+  LeetCode.vcxproj -> f:\Users\ASUS\Desktop\RemoteWork\LeetCodeExercise\LeetCode\x64\Debug\LeetCode.exe
   LeetCode.vcxproj -> f:\Users\ASUS\Desktop\RemoteWork\LeetCodeExercise\LeetCode\x64\Debug\LeetCode.pdb (Partial PDB)

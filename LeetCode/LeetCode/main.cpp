@@ -34,6 +34,10 @@ int main()
 	string bbb = S.removeOuterParentheses("(((())))()(())");
 	std::cout<< bbb;
 	
+	int16_t dd;
+	double b;
+	std::cout <<sizeof(dd) << "b"<<	sizeof(b);
+
 	//for (int i = 0; i <res.size(); i++)
 	//{
 	//	cout << res[i] << endl;
@@ -113,3 +117,4 @@ int main()
 //	}
 //	return 0;
 //}
+
