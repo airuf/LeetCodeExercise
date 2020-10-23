@@ -1,6 +1,6 @@
 #include "includes.h"
 //#include "E-557.Reverse Words in a String III.h"
-#include "E-1021. Remove Outermost Parentheses.h"
+//#include "E-1021. Remove Outermost Parentheses.h"
 //untreate
 //that mean havnt finished ;please use find in proj to accomplish these problem;
 
@@ -19,24 +19,16 @@
 //		p->next = NULL;
 //	}
 //}
-
+#include "E-1047. Remove all adjacent duplicates in string.h"
 
 
 int main()
 {
-	//struct ListNode l1(1);
-	vector<int> a{1,2,2,1};
-	vector<int> a2{1};
-	std::cout << 5 / 2 << endl;
-	//InitLinkedList(&l1,&a2);
-	//Solution S;
+
 	Solution S;
-	string bbb = S.removeOuterParentheses("(((())))()(())");
+	string bbb = S.removeDuplicates("abbcs");
 	std::cout<< bbb;
-	
-	int16_t dd;
-	double b;
-	std::cout <<sizeof(dd) << "b"<<	sizeof(b);
+
 
 	//for (int i = 0; i <res.size(); i++)
 	//{

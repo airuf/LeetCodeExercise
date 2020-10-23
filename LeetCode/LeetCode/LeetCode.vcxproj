@@ -130,7 +130,7 @@
     <ClInclude Include="E-1021. Remove Outermost Parentheses.h" />
     <ClInclude Include="E-1441. Build An Array with Stack operations.h" />
     <ClInclude Include="xE-1002. Find Common characters.h" />
-    <ClInclude Include="xE-1047. Remove all adjacent duplicates in string.h" />
+    <ClInclude Include="E-1047. Remove all adjacent duplicates in string.h" />
     <ClInclude Include="E-141. Link List Cycle.h" />
     <ClInclude Include="E-160. Intersection of Two Linked List.h" />
     <ClInclude Include="E-203. Remove Linked List Elements.h" />
